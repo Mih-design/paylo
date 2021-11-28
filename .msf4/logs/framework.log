@@ -1,0 +1,5 @@
+[11/28/2021 22:37:53] [d(0)] core: Created user based module store
+[11/28/2021 22:38:07] [e(0)] core: Dependency for windows/x64/encrypted_shell_reverse_tcp is not supported
+[11/28/2021 22:38:07] [e(0)] core: Dependency for windows/encrypted_shell_reverse_tcp is not supported
+[11/28/2021 22:38:07] [e(0)] core: Dependency for windows/x64/encrypted_reverse_tcp is not supported
+[11/28/2021 22:38:07] [e(0)] core: Dependency for windows/encrypted_reverse_tcp is not supported
